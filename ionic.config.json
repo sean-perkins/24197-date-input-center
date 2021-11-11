@@ -1,0 +1,7 @@
+{
+  "name": "date-input-cener",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
