@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "date-input-center",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
